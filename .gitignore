@@ -4,3 +4,4 @@
 /unix/hosts
 /unix/k3s.yaml
 /unix/k3s.yaml.back
+/unix/.certs/
